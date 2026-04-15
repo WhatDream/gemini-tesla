@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Fleet Dashboard",
+  "description": "A polished, dark-mode dashboard for managing Tesla vehicles using the Fleet API. Features real-time status, remote controls, and charging monitoring.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
